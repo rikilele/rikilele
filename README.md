@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="ucbc.JPG">
+  <img width="80%" src="https://raw.githubusercontent.com/Rikilele/Rikilele/master/ucbc.JPG">
 </p>
 
 ## Info
