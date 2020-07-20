@@ -5,7 +5,7 @@
 ## Info
 
 - 👨‍💻 Software Engineer @ PlayStation
-- 🎓 Graduated from Carnegie Mellon University
+- 🎓 Graduated from Carnegie Mellon
 
 ## Motto
 
